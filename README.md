@@ -34,6 +34,7 @@
 
 Μέσα από ιδεοθύελλα προέκυψαν κι άλλες προτάσεις σχετικά με όλα αυτά που θα μπορούσαμε να υλοποιήσουμε στην εξοχή:
 
+![Brainstorming (1)-crop](https://github.com/user-attachments/assets/9d5a4ca7-d78e-4b96-9a7b-cb75b2f77719)
 
 
 Επισκεφθήκαμε το κοντινό μας δασάκι προκειμένου να κάνουμε αυτοψία και να πάρουμε περισσότερες ιδέες...
@@ -43,6 +44,7 @@
 
 και τα παιδιά αποτύπωσαν στις ζωγραφιές τους αυτό που θεωρούν ως ιδανικό χώρο για δραστηριότητες στην εξοχή.
 
+![1!](https://github.com/user-attachments/assets/94f64b18-2b3f-41eb-87be-632b05101539)
 
 
 
@@ -52,18 +54,22 @@
 
 Δουλέψαμε σε ομάδες και δημιουργήσαμε τους χάρτες μας μέσω της ζωγραφικής...
 
+![2!](https://github.com/user-attachments/assets/1e3f2160-c570-4058-8c80-7076c605e4c2)
 
 
 της σύνθεσης μέσω του κολλάζ...
 
+![3!](https://github.com/user-attachments/assets/112cc739-815a-4063-a756-b4303ee69123)
 
 
 της δοκιμής με απτά υλικά...
 
+![collage (2)](https://github.com/user-attachments/assets/b9cf1a39-749d-4621-a353-fb9514b35a7e)
 
 
 και της τεχνολογίας!
 
+![5!](https://github.com/user-attachments/assets/ae995582-d42d-4efd-b6d5-7f81712e5427)
 
 
 Η κάθε ομάδα παρουσίασε την πρότασή της και καταλήξαμε στο είδος του χάρτη που θα εξυπηρετήσει καλύτερα τις ανάγκες μας...
@@ -76,14 +82,17 @@
 
 τόσο με το sphero indi...
 
+![6!](https://github.com/user-attachments/assets/5ed8eddf-b832-44f9-b827-4028812ed211)
 
 
 όσο και με το sphero mini...
 
+![7!](https://github.com/user-attachments/assets/a53aa999-1832-4cfe-beb7-0d7f764df3cf)
 
 
 και σκεφτήκαμε να αξιοποιήσουμε και την γνωστή μας πλακέτα micro:bit σε βοηθητικό ρόλο!
 
+![8!](https://github.com/user-attachments/assets/42addbb3-87a4-404b-8259-d1f4b3e72b12)
 
 
 
@@ -103,7 +112,7 @@
 
 ενώ δεν παραλείψαμε να προτείνουμε και διασκεδαστικές δραστηριότητες που ενθαρρύνουν το δημιουργικό παιχνίδι, τη φαντασία και την άθληση!
 
-https://youtu.be/fI6cxttqCX4
+[https://youtu.be/fI6cxttqCX4](https://youtu.be/fI6cxttqCX4?t=488)
 
 
 Δ’ ΦΑΣΗ – ΔΙΑΧΥΣΗ
@@ -111,3 +120,4 @@ https://youtu.be/fI6cxttqCX4
 Η διάδοση της πρότασής μας έγινε μέσω του ιστολογίου του σχολείου μας:
 
 https://blogs.sch.gr/niplitis/2025/05/25/symmetochi-ston-7o-panellinio-diagonismo-anoichton-technologion-stin-ekpaideysi/
+
